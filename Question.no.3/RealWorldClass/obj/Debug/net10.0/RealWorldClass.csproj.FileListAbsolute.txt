@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.3\RealWorldClass\bin\Debug\net10.0\RealWorldClass.exe
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.3\RealWorldClass\bin\Debug\net10.0\RealWorldClass.deps.json
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.3\RealWorldClass\bin\Debug\net10.0\RealWorldClass.runtimeconfig.json
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.3\RealWorldClass\bin\Debug\net10.0\RealWorldClass.dll
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.3\RealWorldClass\bin\Debug\net10.0\RealWorldClass.pdb
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.3\RealWorldClass\obj\Debug\net10.0\RealWorldClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.3\RealWorldClass\obj\Debug\net10.0\RealWorldClass.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.3\RealWorldClass\obj\Debug\net10.0\RealWorldClass.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.3\RealWorldClass\obj\Debug\net10.0\RealWorldClass.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.3\RealWorldClass\obj\Debug\net10.0\RealWorldClass.dll
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.3\RealWorldClass\obj\Debug\net10.0\refint\RealWorldClass.dll
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.3\RealWorldClass\obj\Debug\net10.0\RealWorldClass.pdb
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.3\RealWorldClass\obj\Debug\net10.0\RealWorldClass.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.3\RealWorldClass\obj\Debug\net10.0\ref\RealWorldClass.dll

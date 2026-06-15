@@ -1,0 +1,26 @@
+@page
+@model CounterModel
+
+<h2>Text Counter</h2>
+
+<form method="post">
+    <textarea asp-for="InputText"
+              rows="15"
+              cols="100"></textarea>
+
+    <br />
+    <br />
+
+    <button type="submit">Count</button>
+</form>
+
+@if (Model.IsSubmitted)
+{
+    <hr />
+
+    <p>Number of characters: @Model.CharacterCount</p>
+    <p>Number of words: @Model.WordCount</p>
+    <p>Number of sentences: @Model.SentenceCount</p>
+    <p>Number of vowels: @Model.VowelCount</p>
+    <p>Number of special characters: @Model.SpecialCharacterCount</p>
+}

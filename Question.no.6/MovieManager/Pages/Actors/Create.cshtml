@@ -1,0 +1,62 @@
+@page
+@model MovieManager.Pages.Actors.CreateModel
+
+<div class="row justify-content-center">
+    <div class="col-lg-8 col-xl-7">
+        <div class="card shadow-sm border-0">
+            <div class="card-body p-4">
+                <h1 class="card-title h3 mb-4">Create Actor</h1>
+
+                <form method="post">
+                    <div class="row g-3">
+                        <div class="col-md-6">
+                            <label asp-for="Actor.Name" class="form-label fw-medium"></label>
+                            <input asp-for="Actor.Name" class="form-control" placeholder="Full name" />
+                            <span asp-validation-for="Actor.Name" class="text-danger small"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="Actor.DateOfBirth" class="form-label fw-medium"></label>
+                            <input asp-for="Actor.DateOfBirth" class="form-control" type="date" />
+                            <span asp-validation-for="Actor.DateOfBirth" class="text-danger small"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="Actor.BirthCity" class="form-label fw-medium"></label>
+                            <input asp-for="Actor.BirthCity" class="form-control" placeholder="City of birth" />
+                            <span asp-validation-for="Actor.BirthCity" class="text-danger small"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="Actor.BirthCountry" class="form-label fw-medium"></label>
+                            <input asp-for="Actor.BirthCountry" class="form-control" placeholder="Country of birth" />
+                            <span asp-validation-for="Actor.BirthCountry" class="text-danger small"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="Actor.HeightInches" class="form-label fw-medium"></label>
+                            <input asp-for="Actor.HeightInches" class="form-control" placeholder="Inches" />
+                            <span asp-validation-for="Actor.HeightInches" class="text-danger small"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="Actor.Gender" class="form-label fw-medium"></label>
+                            <input asp-for="Actor.Gender" class="form-control" placeholder="Gender" />
+                            <span asp-validation-for="Actor.Gender" class="text-danger small"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="Actor.NetWorth" class="form-label fw-medium"></label>
+                            <input asp-for="Actor.NetWorth" class="form-control" placeholder="$" />
+                            <span asp-validation-for="Actor.NetWorth" class="text-danger small"></span>
+                        </div>
+                        <div class="col-12">
+                            <label asp-for="Actor.Biography" class="form-label fw-medium"></label>
+                            <textarea asp-for="Actor.Biography" class="form-control" rows="4" placeholder="Brief biography"></textarea>
+                            <span asp-validation-for="Actor.Biography" class="text-danger small"></span>
+                        </div>
+                    </div>
+
+                    <div class="d-flex gap-2 mt-4">
+                        <button type="submit" class="btn btn-primary px-4">Create</button>
+                        <a asp-page="Index" class="btn btn-outline-secondary px-4">Back to List</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

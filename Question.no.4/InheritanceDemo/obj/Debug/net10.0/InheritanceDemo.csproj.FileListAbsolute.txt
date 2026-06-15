@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.4\InheritanceDemo\bin\Debug\net10.0\InheritanceDemo.exe
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.4\InheritanceDemo\bin\Debug\net10.0\InheritanceDemo.deps.json
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.4\InheritanceDemo\bin\Debug\net10.0\InheritanceDemo.runtimeconfig.json
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.4\InheritanceDemo\bin\Debug\net10.0\InheritanceDemo.dll
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.4\InheritanceDemo\bin\Debug\net10.0\InheritanceDemo.pdb
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.4\InheritanceDemo\obj\Debug\net10.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.4\InheritanceDemo\obj\Debug\net10.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.4\InheritanceDemo\obj\Debug\net10.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.4\InheritanceDemo\obj\Debug\net10.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.4\InheritanceDemo\obj\Debug\net10.0\InheritanceDemo.dll
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.4\InheritanceDemo\obj\Debug\net10.0\refint\InheritanceDemo.dll
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.4\InheritanceDemo\obj\Debug\net10.0\InheritanceDemo.pdb
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.4\InheritanceDemo\obj\Debug\net10.0\InheritanceDemo.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.4\InheritanceDemo\obj\Debug\net10.0\ref\InheritanceDemo.dll

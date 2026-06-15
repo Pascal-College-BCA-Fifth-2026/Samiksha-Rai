@@ -1,0 +1,62 @@
+@page
+@model MovieManager.Pages.Movies.CreateModel
+
+<div class="row justify-content-center">
+    <div class="col-lg-8 col-xl-7">
+        <div class="card shadow-sm border-0">
+            <div class="card-body p-4">
+                <h1 class="card-title h3 mb-4">Create Movie</h1>
+
+                <form method="post">
+                    <div class="row g-3">
+                        <div class="col-md-6">
+                            <label asp-for="Movie.Title" class="form-label fw-medium"></label>
+                            <input asp-for="Movie.Title" class="form-control" placeholder="Enter movie title" />
+                            <span asp-validation-for="Movie.Title" class="text-danger small"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="Movie.Genre" class="form-label fw-medium"></label>
+                            <input asp-for="Movie.Genre" class="form-control" placeholder="e.g. Action, Drama" />
+                            <span asp-validation-for="Movie.Genre" class="text-danger small"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="Movie.Rating" class="form-label fw-medium"></label>
+                            <input asp-for="Movie.Rating" class="form-control" placeholder="0.0/10" />
+                            <span asp-validation-for="Movie.Rating" class="text-danger small"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="Movie.ReleaseDate" class="form-label fw-medium"></label>
+                            <input asp-for="Movie.ReleaseDate" class="form-control" type="date" />
+                            <span asp-validation-for="Movie.ReleaseDate" class="text-danger small"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="Movie.Runtime" class="form-label fw-medium"></label>
+                            <input asp-for="Movie.Runtime" class="form-control" placeholder="Minutes" />
+                            <span asp-validation-for="Movie.Runtime" class="text-danger small"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="Movie.Budget" class="form-label fw-medium"></label>
+                            <input asp-for="Movie.Budget" class="form-control" placeholder="$" />
+                            <span asp-validation-for="Movie.Budget" class="text-danger small"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="Movie.Gross" class="form-label fw-medium"></label>
+                            <input asp-for="Movie.Gross" class="form-control" placeholder="$" />
+                            <span asp-validation-for="Movie.Gross" class="text-danger small"></span>
+                        </div>
+                        <div class="col-12">
+                            <label asp-for="Movie.Summary" class="form-label fw-medium"></label>
+                            <textarea asp-for="Movie.Summary" class="form-control" rows="4" placeholder="Brief summary of the movie"></textarea>
+                            <span asp-validation-for="Movie.Summary" class="text-danger small"></span>
+                        </div>
+                    </div>
+
+                    <div class="d-flex gap-2 mt-4">
+                        <button type="submit" class="btn btn-primary px-4">Create</button>
+                        <a asp-page="Index" class="btn btn-outline-secondary px-4">Back to List</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

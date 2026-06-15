@@ -1,0 +1,57 @@
+@page
+@model NotFoundModel
+@{
+    ViewData["Title"] = "Page Not Found";
+}
+
+<style>
+    .not-found-page {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        min-height: calc(100vh - var(--nav-height) - 80px - 120px);
+        padding: var(--space-4xl) var(--space-lg);
+    }
+
+    .not-found-code {
+        font-size: 6rem;
+        font-weight: 700;
+        line-height: 1;
+        letter-spacing: -0.06em;
+        color: var(--color-accent);
+        margin-bottom: var(--space-lg);
+    }
+
+    .not-found-title {
+        font-size: 1.75rem;
+        margin-bottom: var(--space-sm);
+    }
+
+    .not-found-description {
+        color: var(--color-muted);
+        max-width: 400px;
+        margin-bottom: var(--space-xl);
+        font-size: 0.9375rem;
+    }
+
+    .not-found-actions {
+        display: flex;
+        gap: var(--space-sm);
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+</style>
+
+<div class="not-found-page">
+    <div class="not-found-code">404</div>
+    <h1 class="not-found-title">Page not found</h1>
+    <p class="not-found-description">
+        The page you're looking for doesn't exist or has been moved.
+    </p>
+    <div class="not-found-actions">
+        <a asp-page="/Dashboard/Index" class="btn btn-primary">Dashboard</a>
+        <a asp-page="/Index" class="btn btn-outline">Home</a>
+    </div>
+</div>

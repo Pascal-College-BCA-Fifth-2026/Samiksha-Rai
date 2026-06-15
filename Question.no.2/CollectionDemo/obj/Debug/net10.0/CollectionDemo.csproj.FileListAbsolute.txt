@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.2\CollectionDemo\bin\Debug\net10.0\CollectionDemo.exe
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.2\CollectionDemo\bin\Debug\net10.0\CollectionDemo.deps.json
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.2\CollectionDemo\bin\Debug\net10.0\CollectionDemo.runtimeconfig.json
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.2\CollectionDemo\bin\Debug\net10.0\CollectionDemo.dll
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.2\CollectionDemo\bin\Debug\net10.0\CollectionDemo.pdb
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.2\CollectionDemo\obj\Debug\net10.0\CollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.2\CollectionDemo\obj\Debug\net10.0\CollectionDemo.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.2\CollectionDemo\obj\Debug\net10.0\CollectionDemo.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.2\CollectionDemo\obj\Debug\net10.0\CollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.2\CollectionDemo\obj\Debug\net10.0\CollectionDemo.dll
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.2\CollectionDemo\obj\Debug\net10.0\refint\CollectionDemo.dll
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.2\CollectionDemo\obj\Debug\net10.0\CollectionDemo.pdb
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.2\CollectionDemo\obj\Debug\net10.0\CollectionDemo.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Lab(.NET)\Question.no.2\CollectionDemo\obj\Debug\net10.0\ref\CollectionDemo.dll
